@@ -3,7 +3,7 @@ The revival of a vintage analog camera using a small single-board computer.
 ---
 
 ## **Introduction**
-This project uses a Raspberry Pi Zero W and an OV5647 image sensor. The components snuggly fit inside a 3D-printed Super 8mm film casing. The modified camera records digital video files, preserving the vintage analog look of the Super8 camera.
+This project uses a Raspberry Pi Zero W and an OV5647 image sensor. The components fit inside a 3D-printed Super 8mm film casing. The modified camera records digital video files, preserving the vintage analog look of the Super8 camera.
 
 ### **Highlights**
 - Replaces traditional Super 8mm film with a digital image sensor.
